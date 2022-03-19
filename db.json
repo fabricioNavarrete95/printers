@@ -1,4 +1,5 @@
 {
+	"servidorImpresoras": "http://192.168.0.58:9090/",
 	"printers": [
 	{
 		"name": "OneNote for Windows 10",
