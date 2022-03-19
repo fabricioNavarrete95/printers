@@ -1,45 +1,47 @@
 {
-	"servidorImpresoras": "http://192.168.0.58:9090/",
-	"printers": [
-	{
-		"name": "OneNote for Windows 10",
-		"status": "3",
-		"deviceId": "OneNote for Windows 10"
-	},
-	{
-		"name": "NPI03FAE5 (HP LaserJet 400 color M451dn)",
-		"status": "1",
-		"deviceId": "NPI03FAE5 (HP LaserJet 400 color M451dn)"
-	},
-	{
-		"name": "Microsoft XPS Document Writer",
-		"status": "3",
-		"deviceId": "Microsoft XPS Document Writer"
-	},
-	{
-		"name": "Microsoft Print to PDF",
-		"status": "3",
-		"deviceId": "Microsoft Print to PDF"
-	},
-	{
-		"name": "Fax",
-		"status": "3",
-		"deviceId": "Fax"
-	},
-	{
-		"name": "EPSON XP-400 Series",
-		"status": "2",
-		"deviceId": "EPSON XP-400 Series"
-	},
-	{
-		"name": "EPSON TM-T20IIIL Receipt",
-		"status": "3",
-		"deviceId": "EPSON TM-T20IIIL Receipt"
-	},
-	{
-		"name": "Enviar a OneNote 2013",
-		"status": "3",
-		"deviceId": "Enviar a OneNote 2013"
+	"printers": {
+		"servidorImpresoras": "http://192.168.0.58:9090/",
+		"listOfPrinters": [
+			{
+				"name": "OneNote for Windows 10",
+				"status": "3",
+				"deviceId": "OneNote for Windows 10"
+			},
+			{
+				"name": "NPI03FAE5 (HP LaserJet 400 color M451dn)",
+				"status": "1",
+				"deviceId": "NPI03FAE5 (HP LaserJet 400 color M451dn)"
+			},
+			{
+				"name": "Microsoft XPS Document Writer",
+				"status": "3",
+				"deviceId": "Microsoft XPS Document Writer"
+			},
+			{
+				"name": "Microsoft Print to PDF",
+				"status": "3",
+				"deviceId": "Microsoft Print to PDF"
+			},
+			{
+				"name": "Fax",
+				"status": "3",
+				"deviceId": "Fax"
+			},
+			{
+				"name": "EPSON XP-400 Series",
+				"status": "2",
+				"deviceId": "EPSON XP-400 Series"
+			},
+			{
+				"name": "EPSON TM-T20IIIL Receipt",
+				"status": "3",
+				"deviceId": "EPSON TM-T20IIIL Receipt"
+			},
+			{
+				"name": "Enviar a OneNote 2013",
+				"status": "3",
+				"deviceId": "Enviar a OneNote 2013"
+			}
+		]
 	}
-]
 }
