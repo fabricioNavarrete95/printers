@@ -1,6 +1,6 @@
 {
 	"printers": {
-		"servidorImpresoras": "",
+		"servidorImpresoras": "https://my-json-server.typicode.com/fabricioNavarrete95/printers/printers/",
 		"listOfPrinters": [
 			{
 				"name": "OneNote for Windows 10",
